@@ -2,8 +2,6 @@
 
 ## Useful stuff
 
-- https://discourse.pi-hole.net/
-
 - https://www.raspberrypi.org/
 
 - https://www.virustotal.com
