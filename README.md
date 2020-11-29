@@ -1,6 +1,6 @@
 # Securitysoftware
 
-- More info will arrive at some point
+- More info & data will arrive at some point
 
 
 # Useful stuff
