@@ -61,7 +61,6 @@
 - https://www.nirsoft.net/   - *(Tested with VirusTotal - https://www.virustotal.com/gui/url/33b803d29aa292cdb6de657712b0075b6c5ae9eb5602c904b846afdd3e364439/detection)*
 
 
-
 ## Security - Blogs & News
 
 - https://krebsonsecurity.com/
