@@ -2,8 +2,6 @@
 
 ## Useful stuff
 
-- https://www.raspberrypi.org/
-
 - https://www.virustotal.com
 
 - https://otx.alienvault.com
