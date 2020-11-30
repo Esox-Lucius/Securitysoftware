@@ -70,6 +70,8 @@
 
 - https://www.darkreading.com/
 
+- https://blog.aa419.org/
+
 - https://securitywithoutborders.org/blog.html
 
 - https://info.phishlabs.com/blog
