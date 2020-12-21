@@ -372,4 +372,4 @@ are permitted in any medium without royalty provided the copyright
 notice and this notice are preserved.  This file is offered as-is,
 without any warranty*
 
-**EsoxLucius (Security Noob)** 2020
+**EsoxLucius (I'm not bad, nor am I good - something in-between)** 2020
