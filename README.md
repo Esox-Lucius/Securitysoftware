@@ -330,12 +330,12 @@ Copyright © 2013-2020 QuiteRSS Team
 
 
 
-### https://www.unraid.net/
- *Break the confines of a single OS. Unraid lets you partition system resources to store and protect data, run any application, and/or create virtual machines in isolated environments.*
+### https://www.proxmox.com/en/
+ *Our main products – Proxmox Virtual Environment, Proxmox Backup Server, and Proxmox Mail Gateway - enable you to implement an affordable, secure, and open-source IT infrastructure. With the Proxmox technology you'll get those comprehensive yet easy-to-use software solutions you've always wanted.*
  
-Copyright © 2005-2020 Lime Technology, Inc.
+Copyright © 2004 - 2022 Proxmox Server Solutions GmbH. All rights reserved.
 
-**Source**: https://unraid.net/product
+**Source**: https://www.proxmox.com/en/downloads
 
 
 # Other
