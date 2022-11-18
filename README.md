@@ -330,14 +330,6 @@ Copyright © 2013-2020 QuiteRSS Team
 
 
 
-### https://www.proxmox.com/en/
- *Our main products – Proxmox Virtual Environment, Proxmox Backup Server, and Proxmox Mail Gateway - enable you to implement an affordable, secure, and open-source IT infrastructure. With the Proxmox technology you'll get those comprehensive yet easy-to-use software solutions you've always wanted.*
- 
-Copyright © 2004 - 2022 Proxmox Server Solutions GmbH. All rights reserved.
-
-**Source**: https://www.proxmox.com/en/downloads
-
-
 # Other
 
 ### https://volumio.org/
